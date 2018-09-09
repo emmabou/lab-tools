@@ -5,10 +5,12 @@ Javascript with p5.js
 mieux pour passer dans un site web si ca vaut le coup
 -----------
 
-
 What features :
 - gene selection (need to upload a datafile with all the e. coli genome info)
 I still don't really know how to retrieve all the Ecocyc info, or maybe to get the info by url request ...
 - drawing
 - selection several genes / detect if problem if too close for P1 transduction
 - detect a possible linked available Keio strain for co-transduction/mapping sort of
+
+------------------------
+TO DO - STEPS TO TAKE
