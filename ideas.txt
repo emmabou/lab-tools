@@ -4,7 +4,7 @@ Processing
 Javascript with p5.js
 mieux pour passer dans un site web si ca vaut le coup
 -----------
-
+utiliser git et GitHub au passage
 
 What features :
 - gene selection (need to upload a datafile with all the e. coli genome info)
